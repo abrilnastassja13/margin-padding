@@ -1,0 +1,10 @@
+.caja-exterior1, .caja-exterior2, .caja-exterior3 {
+	display: block;
+	height: 250px;
+	width: 220px;
+	border: 2px solid #F05917;
+}
+
+.contenido1, .contenido2, .contenido3 {
+	padding: 3px;
+}
